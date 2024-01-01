@@ -1,1 +1,1 @@
-https://dmk1282.github.io/bcubed/
+https://dmk1282r.github.io/bcubedModded/
