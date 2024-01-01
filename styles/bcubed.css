@@ -43,8 +43,8 @@
 
 #bcubed-start-screen #bcubed-loading a {position: absolute; left: 0px; top: 0px; width: 0px; height: 0px; color: transparent}
 #bcubed-start-screen #bcubed-loading img {display: block; pointer-events: none}
-#bcubed-start-screen .bcubed-loading-bar {position: absolute; left: 0px; top: 0px; width: 0px; height: 0px; border: 2px solid #ff0}
-#bcubed-start-screen #bcubed-loading-progress {display: block; width: 0; height: 0px; background: #f00; transition: width 0.25s}
+#bcubed-start-screen .bcubed-loading-bar {position: absolute; left: 0px; top: 0px; width: 0px; height: 0px; border: 2px solid #000}
+#bcubed-start-screen #bcubed-loading-progress {display: block; width: 0; height: 0px; background: #000; transition: width 0.25s}
 
 /* Site lock banner */
 #bcubed-start-screen #bcubed-site-lock .bcubed-message {display: block; width: 354px; height: 230px; margin: 90px auto 0; background: transparent url('../images/lock.png') no-repeat 0 0; color: transparent}
