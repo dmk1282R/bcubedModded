@@ -104,7 +104,7 @@
 #bcubed div.bcubed-page.bcubed-level-list button.bcubed-back {margin: 5px auto 0}
 
 /* Main menu - title screen */
-#bcubed p.bcubed-page.bcubed-title {position: absolute; top: 50%; left: 50%; width: 600px; height: 270px; margin: -275px 0 0 -300px; padding-top: 280px; background: transparent url('../images/menu/page_title.gif') no-repeat 50% 50%}
+#bcubed p.bcubed-page.bcubed-title {position: absolute; top: 50%; left: 50%; width: 600px; height: 270px; margin: -275px 0 0 -300px; padding-top: 280px; background: transparent url('../images/menu/page_title.png') no-repeat 50% 50%}
 
 
 /*
