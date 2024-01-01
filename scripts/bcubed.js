@@ -15182,7 +15182,7 @@ function() {
         if (!0 === BCubed.loadGame) {
             for (var r = document.getElementById("bcubed-stars"), o = new Array(6), a = !1, s = 0; s < o.length; s++) {
                 var c = document.createElement("img");
-                0 === s && (c.onload = e), c.src = "images/menu/star.png", r.appendChild(c), o[s] = {
+                0 === s && (c.onload = e), c.src = "images/menu/star.gif", r.appendChild(c), o[s] = {
                     image: c,
                     free: !0,
                     visible: !1
