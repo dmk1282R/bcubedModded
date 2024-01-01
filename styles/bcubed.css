@@ -37,7 +37,7 @@
  * Simple loading screen
  */
 #bcubed-start-screen {position: absolute; top: 0; right: 0; bottom: 0; left: 0; z-index: 4; background: #000}
-#bcubed-start-screen>div {position: absolute; left: 50%; top: 50%; width: 978px; height: 550px; margin: -275px 0 0 -300px; transform-origin: 50% 50%}
+#bcubed-start-screen>div {position: absolute; left: 50%; top: 50%; width: 978px; height: 550px; margin: -275px 0 0 -489px; transform-origin: 50% 50%}
 #bcubed-start-screen>div>* {position: absolute; z-index: 1; width: 100%; height: 100%; opacity: 0; transition: opacity 0.25s}
 #bcubed-start-screen>div>.bcubed-visible {opacity: 1; z-index: 2}
 
